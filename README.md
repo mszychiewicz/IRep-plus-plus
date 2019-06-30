@@ -1,5 +1,5 @@
+============================================
 This is an implementation of IRep++ algorithm designed to predict wine color based on wine's physicochemical variables.
-
 ============================================
 
 This project was done as a Warsaw University of Technology assignment for Machine Learning class.
