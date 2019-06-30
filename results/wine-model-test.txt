@@ -1,0 +1,6 @@
+Class			Cases			Classified
+
+white			200			187
+red			100			90
+
+Accuracy: 92.3333333333%

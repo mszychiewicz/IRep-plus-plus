@@ -1,0 +1,2 @@
+IF chlorides <= 0.058 THEN white
+ELSE red
