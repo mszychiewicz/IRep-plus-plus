@@ -1,5 +1,7 @@
 This is an implementation of IRep++ algorithm designed to predict wine color based on wine's physicochemical variables.
+============================================
 
+This project was done as a Warsaw University of Technology assignment for Machine Learning class.
 
 IRep++ Specification:
 http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.369.2288&rep=rep1&type=pdf
@@ -9,7 +11,6 @@ https://archive.ics.uci.edu/ml/datasets/Wine+Quality
 
 This implementation is based on:
 https://github.com/azampagl/ai-ml-ripperk
-
 
 The script (src/irep.py) handles two phases, learning and classifying, which are described in more detail below.
 
